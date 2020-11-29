@@ -1,0 +1,9 @@
+{
+  "name": "@rpg-tools/mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@rpg-tools/config-axios": "*"
+  }
+}
